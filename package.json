@@ -1,0 +1,8 @@
+{
+  "name": "web3-sandbox",
+  "version": "0.1.0",
+  "main": "./src/app.js",
+  "repository": "git@github.com:machinae/web3-sandbox.git",
+  "author": "Dutch Lichtenstein <dutch@unviral.com>",
+  "license": "MIT"
+}
